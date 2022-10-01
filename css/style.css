@@ -134,14 +134,14 @@ span {
     white-space: nowrap;
 }
 
-@-moz-document url-prefix() {
+/*@-moz-document url-prefix() {
     .chapter_text {
         margin-left: 10px;
         font-size: 19px;
         font-weight: 600;
         line-height: 25px;
     }
-}
+}*/
 
 .user-icon {
     width: 25px;
