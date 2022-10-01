@@ -148,15 +148,15 @@ span {
     height: 25px;
 }
 
-.chapter_decor1 {
+/*.chapter_decor1 {
     margin: 11.5px 0px 11.5px 5px;
     padding: 1px 0px;
     background-color: #049ed1;
     width: 254px;
     height: 2px;
-}
+}*/
 
-.chapter_decor2 {
+.chapter_decor {
     margin: 11.5px 0px 11.5px 5px;
     padding: 1px 0px;
     background-color: #049ed1;
@@ -164,7 +164,7 @@ span {
     height: 2px;
 }
 
-.chapter_decor3 {
+/*.chapter_decor3 {
     margin: 11.5px 0px 11.5px 5px;
     padding: 1px 0px;
     background-color: #049ed1;
@@ -178,7 +178,7 @@ span {
     background-color: #049ed1;
     width: 328px;
     height: 2px;
-}
+}*/
 
 .info-item {
     color: #999;
