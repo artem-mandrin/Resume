@@ -134,27 +134,10 @@ span {
     white-space: nowrap;
 }
 
-/*@-moz-document url-prefix() {
-    .chapter_text {
-        margin-left: 10px;
-        font-size: 19px;
-        font-weight: 600;
-        line-height: 25px;
-    }
-}*/
-
 .user-icon {
     width: 25px;
     height: 25px;
 }
-
-/*.chapter_decor1 {
-    margin: 11.5px 0px 11.5px 5px;
-    padding: 1px 0px;
-    background-color: #049ed1;
-    width: 254px;
-    height: 2px;
-}*/
 
 .chapter_decor {
     margin: 11.5px 0px 11.5px 5px;
@@ -163,22 +146,6 @@ span {
     width: 500px;
     height: 2px;
 }
-
-/*.chapter_decor3 {
-    margin: 11.5px 0px 11.5px 5px;
-    padding: 1px 0px;
-    background-color: #049ed1;
-    width: 167px;
-    height: 2px;
-}
-
-.chapter_decor4 {
-    margin: 11.5px 0px 11.5px 5px;
-    padding: 1px 0px;
-    background-color: #049ed1;
-    width: 328px;
-    height: 2px;
-}*/
 
 .info-item {
     color: #999;
